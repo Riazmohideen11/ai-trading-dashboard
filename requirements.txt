@@ -3,7 +3,10 @@ pandas
 numpy
 plotly
 requests
-alpha_vantage
 yfinance
+alpha_vantage
 scikit-learn
 mftool
+feedparser
+beautifulsoup4
+lxml
