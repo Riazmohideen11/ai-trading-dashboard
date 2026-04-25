@@ -1,6 +1,8 @@
 streamlit
-yfinance
 pandas
-mftool
-newsapi-python
-textblob
+numpy
+alpha_vantage
+requests
+plotly
+yfinance
+scikit-learn
