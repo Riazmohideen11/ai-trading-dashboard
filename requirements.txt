@@ -1,8 +1,8 @@
 streamlit==1.32.0
-pandas==2.2.2
-plotly==5.20.0
-requests==2.31.0
-alpha_vantage==2.3.1
-mftool==2.6
-feedparser==6.0.11
-vaderSentiment==3.3.2
+pandas
+plotly
+requests
+alpha_vantage
+mftool
+feedparser
+vaderSentiment
