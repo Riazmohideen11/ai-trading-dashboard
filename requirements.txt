@@ -1,6 +1,22 @@
-streamlit
-yfinance
-pandas
-mftool
-newsapi-python
-textblob
+streamlit==1.32.2
+pandas==2.2.1
+numpy==1.26.4
+
+# Market data
+alpha_vantage==2.3.1
+yfinance==0.2.37
+
+# Mutual fund data
+mftool==2.6
+
+# News sentiment
+feedparser==6.0.11
+vaderSentiment==3.3.2
+
+# Visualization
+plotly==5.20.0
+
+# Utilities
+requests==2.31.0
+python-dateutil==2.8.2
+pytz==2024.1
