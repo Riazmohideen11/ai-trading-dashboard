@@ -1,10 +1,6 @@
 streamlit
+yfinance
 pandas
-numpy
-plotly
-alpha_vantage
 mftool
-feedparser
-vaderSentiment
-requests
-scikit-learn
+newsapi-python
+textblob
