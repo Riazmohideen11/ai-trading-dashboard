@@ -1,8 +1,9 @@
-streamlit==1.32.0
+streamlit
 pandas
-plotly
-requests
+numpy
 alpha_vantage
 mftool
 feedparser
 vaderSentiment
+plotly
+Pillow==10.4.0
