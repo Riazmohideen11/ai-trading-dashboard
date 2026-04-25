@@ -6,4 +6,3 @@ mftool
 feedparser
 vaderSentiment
 plotly
-Pillow==10.4.0
