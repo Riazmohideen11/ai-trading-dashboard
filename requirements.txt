@@ -6,3 +6,4 @@ requests
 alpha_vantage
 yfinance
 scikit-learn
+mftool
